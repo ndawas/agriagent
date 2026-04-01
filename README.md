@@ -306,10 +306,10 @@ During ideation, ASI-1 was used to:
 
 | Field | Details |
 |---|---|
-| **Name** | Abdou |
+| **Name** | Abdoulaye Sy Ndaw |
 | **Role** | Full-Stack Developer & AI Engineer |
 | **Institution** | École Polytechnique de Thiès (EPT), Senegal |
-| **Background** | Built EduBox — offline AI tutoring platform on Raspberry Pi (RAG + ChromaDB + LLM); GraphQL migration at InTouch |
+| **Background** | Built EduBox — offline AI tutoring platform on Raspberry Pi (RAG + ChromaDB + LLM) |
 | **Skills** | Python, Java, React, RAG pipelines, AI agent systems |
 
 ---
