@@ -63,7 +63,7 @@ AgriAgent deploys **four specialized ASI-1 agents** that work in concert as a fa
                       │
          ┌────────────▼────────────┐
          │    AgriAgent Orchestrator (ASI-1)    │
-         │    Routes queries to specialized agents  │
+         │    Routes queries to specialized agents  
          └──┬──────┬────────┬────────┬──────────┘
             │      │        │        │
      ┌──────▼─┐ ┌──▼───┐ ┌─▼────┐ ┌─▼──────┐
@@ -337,8 +337,6 @@ During ideation, ASI-1 was used to:
 - [x] Impact metrics specified
 - [x] Challenges and mitigations addressed
 - [x] GitHub repository structure ready
-- [ ] Registration form completed
-- [ ] Demo mockup / wireframe (optional — recommended)
 
 ---
 
